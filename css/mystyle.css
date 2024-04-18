@@ -6,3 +6,6 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+ root:{
+  --bs-primary-rgb:189, 195, 199;
+ }
