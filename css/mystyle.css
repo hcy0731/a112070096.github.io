@@ -6,6 +6,6 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
- root:{
+ p::after{
   background-color: 255, 255, 255;
  }
