@@ -9,3 +9,7 @@
  :root{
   --bs-primary-rgb:189, 195, 199   ;
  }
+
+ body{
+  background-image: url(../assets/arches.png);
+ }
